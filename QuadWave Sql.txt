@@ -1,0 +1,5 @@
+Database Name ->master
+
+Table1 Name--> Customer
+
+Table2 Name--> CustomerAdresses
